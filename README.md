@@ -1,2 +1,1 @@
-# liternet
-LiterNet - new World Wide Web
+# Wide R.E.A.C.T
